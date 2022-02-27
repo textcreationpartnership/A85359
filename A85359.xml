@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from Portsmouth, declaring how Colonell Richard Norton governour of Southhampton, met with my Lord Craford and Colonell Ennis regiments, routed them, killed one captaine and captain-lieutenant, besides common souldiers, and took many prisoners, with the losse of onely two men. Sent in a letter to his Excellency (from the said Colonell) and published by his command, for the better satisfaction of such as desire to heare the truth. Jan. 8. 1643. It is his Excellencies pleasure that this letter be forthwith printed. John Baldwin Secretary to his Excellency.</title>
+            <author>Norton, Richard, 1614 or 15-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85359</idno>
+            <idno type="STC">Wing G1065</idno>
+            <idno type="STC">Thomason E81_7</idno>
+            <idno type="STC">ESTC R17564</idno>
+            <idno type="EEBO-CITATION">99860221</idno>
+            <idno type="PROQUEST">99860221</idno>
+            <idno type="VID">112338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112338)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E81[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from Portsmouth, declaring how Colonell Richard Norton governour of Southhampton, met with my Lord Craford and Colonell Ennis regiments, routed them, killed one captaine and captain-lieutenant, besides common souldiers, and took many prisoners, with the losse of onely two men. Sent in a letter to his Excellency (from the said Colonell) and published by his command, for the better satisfaction of such as desire to heare the truth. Jan. 8. 1643. It is his Excellencies pleasure that this letter be forthwith printed. John Baldwin Secretary to his Excellency.</title>
+                  <author>Norton, Richard, 1614 or 15-1691.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Gould,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed R. Norton.</note>
+                  <note>Addressed to Robert, Earl of Essex.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crawford, Ludovic Lindsay, --  Earl of, 1600-1652?</term>
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Innes, John.</term>
+               <term>Norton, Richard, 1614 or 15-1691.</term>
+               <term>Portsmouth (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112338:1" rendition="simple:additions"/>
+            <p>GOOD NEWES FROM PORTSMOUTH, DECLARING How Colonell <hi>Richard Norton</hi> Governour of <hi>Southampton,</hi> met with my Lord <hi>Craford<g ref="char:punc">▪</g>
+               </hi> and Colonell <hi>Ennis</hi> Regiments, routed them, killed one Captaine and Captain-Lieutenant, beſides common Souldiers, and tooke many priſoners, with the loſſe of onely two men.</p>
+            <p>Sent in a Letter to his Excellency (from the ſaid Colonell) and publiſhed by his command, for the better ſatisfaction of ſuch as deſire to heare the truth.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Jan. 8. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>It is his Excellencies pleaſure that this Letter be forthwith printed.</p>
+                        <closer>
+                           <signed>John Baldwin Secretary to his Excellency.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for THOMAS GOULD, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112338:2"/>
+            <pb n="1" facs="tcp:112338:2"/>
+            <head>GOOD NEWS From PORTSMOUTH.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He occaſion of this trouble, is to prevent or alter any miſ-reports which may be or have beene raiſed upon me, becauſe I heard it was reported even at my owne home, that I was routed, and my ſelfe taken or killed; the occaſion of this I ſhall relate unto you: when the enemy marched toward Sir <hi>William Waller,</hi> though I could not ſpare men to his aſſiſtance as he deſired, I
+<pb n="2" facs="tcp:112338:3"/>marched after them with about 130 horſe on Saturday laſt, that I might ſee their march and be ready to helpe him what was in my power. I marched farre before I could get knowledge where the enemy was, and at laſt by reaſon of the extreame ſoule weather I tooke up my Quarters at a place within a mile of the enemies body, where they were upon a hill undiſcovered; I had not beene long in my quarters, but my Scouts brought me in word of a party drawing towards us; we immediately drew out, and ſtood ſo long facing them, that (they ſtill increa<g ref="char:EOLhyphen"/>ſing from their body) I ſaw it was not probable for us to eſcape if we ſhould en<g ref="char:EOLhyphen"/>gage our ſelves with them; upon this conſideration I cauſed the reare to face about and march towards <hi>Chicheſter,</hi> which they did, and I ſtayed with ſome 50 of my owne Troope to ſecure their march. The enemy either ſeeing them, or ſuſpecting we would goe that way, made all the haſte they could poſſibly to intercept us in our
+<pb n="3" facs="tcp:112338:3"/>paſſage; upon this I marched after the reſt, but truely the enemy made ſuch haſte that I feared they would get in betweene us, and then another party get behind me; ſo I made a ſtand, and was faine to retreat, that I might get my men into ſome order upon a Heath which was hard by; the enemy, it ſeemes, thought they had been forward enough to have intercepted us, came about, and came ſhort of my men that went firſt away, and they followed me very fiercely; I faced about upon the Heath, and then they ſtood, but I ſaw (though peradventure I might have been able to have fought with that party) that they increaſed ſo faſt that I durſt not in<g ref="char:EOLhyphen"/>gage my men,) but I wheeled about, and made haſte away, leſt the narrow paſſage ſhould have proved prejudiciall to me, if they ſhould have followed me too cloſe. I had nor quite eſcaped this danger, but juſt in my way, at the entring of a Towne called <hi>Havant,</hi> I met with two Regiments
+<pb n="4" facs="tcp:112338:4"/>(as they ſay) of Dragoones under the com<g ref="char:EOLhyphen"/>mand of my Lord <hi>Craford,</hi> and Colonell <hi>Ennis,</hi> there was then a neceſſity of going forward, what ever the danger was, which (I confeſſe) I apprehended to be farre greater then it pleaſed God to ſuffer it to be; they ſtood and faced us with ſome of them while the reſt marched by; for they were comming out of a croſſe Lane, they ſtood till we came within half Piſtoll ſhot of them, and when they ſaw that we were reſolved to fall on them, they fairely (truſting it ſeemes more to their Horſes then their Armes) runne away; we fell upon them, I thinke, with the more an<g ref="char:EOLhyphen"/>ger, having beene croſſed before: and truely we ſpoiled (me thought) too many of them, they were moſt in red Coats, but they were quickly all of a die: I thinke there were not many killed, but I thinke there eſcaped few without broken pates. I heare, of quality, they loſt but a Captaine and Captaine-Lieutenant; we brought
+<pb n="5" facs="tcp:112338:4"/>away ſome priſoners, and left the reſt in the Towne, into which the enemy fol<g ref="char:EOLhyphen"/>lowed us; I hope I have not loſt above two or three men; I doe not yet know certainely: thoſe I have are ſafe at <hi>Chi<g ref="char:EOLhyphen"/>cheſter,</hi> and I am here at <hi>Portſmouth</hi> this ſecond of <hi>January,</hi>
+            </p>
+            <closer>
+               <signed>Your moſt humble ſervant, <hi>R. Norton.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
